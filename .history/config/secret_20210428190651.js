@@ -1,0 +1,1 @@
+export const secret = "SECRETIVE!@#$kjnkjubcav99887et3gvjqdabxnSECRET"
